@@ -1,5 +1,7 @@
 # Hi there, I'm Nolan 👋
 
+## Currently, I'm exploring impactful problems through code
+
 ## About Me
 - 🔭 I'm currently working on an iOS app to optimize your gym schedule
 - 🌱 I'm currently learning data scraping and data processing
