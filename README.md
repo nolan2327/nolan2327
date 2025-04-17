@@ -1,10 +1,10 @@
 # Hi there, I'm Nolan 👋
 
 ## About Me
-- 🔭 I'm currently working on an app to optimize your gym schedule
-- 🌱 I'm currently learning AWS
+- 🔭 I'm currently working on an iOS app to optimize your gym schedule
+- 🌱 I'm currently learning data scraping and data processing
 - 📫 How to reach me: nolanq [at] ucla.edu
-- ⚡ Fun fact: I broke a world record
+- ⚡ Fun fact: I broke a world record in high school for the most pullups in 24 hours
 
 <!-- Add or remove social media as needed -->
 
