@@ -6,7 +6,7 @@
 ### About Me
 - 🔭 Building an iOS app to optimize your gym schedule  
 - 🌱 Learning data scraping & data processing  
-- 📫 Reach me: nolanq [at] ucla.edu  
+- 📫 Reach me: nolanq [at] ucla [dot] edu  
 - ⚡ Fun fact: I broke a world record in high school for most pull-ups in 24 hours  
 
 ---
