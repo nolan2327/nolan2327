@@ -1,5 +1,4 @@
 <h1 align="center">Hi there, I'm Nolan 👋</h1>
-<h3 align="center">Currently exploring impactful problems through code</h3>
 
 ---
 
